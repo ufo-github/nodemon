@@ -3,7 +3,7 @@
 
 ## local path
 
-![]()
+![nodemon local path.png](nodemon local path.png)
 
 
 https://www.npmjs.com/package/nodemon
